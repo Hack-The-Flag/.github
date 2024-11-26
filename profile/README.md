@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Hack The Flag </h1> 
+<br>
+<p align="center">
+  <a href="https://hacktheflag.net/">
+    <img alt="GitPoint" title="GitPoint" src="/img/HTF-bold-320-sh-lg.png" width="200">
+  </a>
+</p>
+
+<p align="center">
+  Unlock the secrets
+</p>
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
