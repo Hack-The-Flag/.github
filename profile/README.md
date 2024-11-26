@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href="https://hacktheflag.net/">
-    <img alt="GitPoint" title="GitPoint" src="/img/HTF-bold-320-sh-lg.png" width="200">
+    <img alt="HTF" title="HTF" src="https://hacktheflag.net/img/HTF-bold-320-sh-lg.png" width="200">
   </a>
 </p>
 
